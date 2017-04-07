@@ -1,0 +1,84 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		DE4D03901E90D011004D7F1F /* currentmembers.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = currentmembers.html; sourceTree = "<group>"; };
+		DECED5481E8DBB3500F8BB11 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		DEE96E191E91B11100289DFE /* news.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = news.html; sourceTree = "<group>"; };
+		DEE96E1A1E91D1A000289DFE /* apply.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = apply.html; sourceTree = "<group>"; };
+		DEE96E1C1E91D58200289DFE /* projects.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = projects.html; sourceTree = "<group>"; };
+		DEE96E1D1E92012900289DFE /* contactme.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = contactme.html; sourceTree = "<group>"; };
+		DEF1C1141E8EBD260080B390 /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		DECED5411E8DBB1000F8BB11 = {
+			isa = PBXGroup;
+			children = (
+				DEE96E1D1E92012900289DFE /* contactme.html */,
+				DEE96E1C1E91D58200289DFE /* projects.html */,
+				DEE96E1A1E91D1A000289DFE /* apply.html */,
+				DEE96E191E91B11100289DFE /* news.html */,
+				DECED5481E8DBB3500F8BB11 /* index.html */,
+				DEF1C1141E8EBD260080B390 /* style.css */,
+				DE4D03901E90D011004D7F1F /* currentmembers.html */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		DECED5421E8DBB1000F8BB11 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+			};
+			buildConfigurationList = DECED5451E8DBB1000F8BB11 /* Build configuration list for PBXProject "Project" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = DECED5411E8DBB1000F8BB11;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		DECED5461E8DBB1000F8BB11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		DECED5471E8DBB1000F8BB11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DECED5451E8DBB1000F8BB11 /* Build configuration list for PBXProject "Project" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DECED5461E8DBB1000F8BB11 /* Debug */,
+				DECED5471E8DBB1000F8BB11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DECED5421E8DBB1000F8BB11 /* Project object */;
+}

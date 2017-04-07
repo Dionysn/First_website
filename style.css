@@ -1,0 +1,194 @@
+
+/* Background image */
+
+body {
+    background-image: url("Logo-small.png");
+    background-repeat: repeat;
+    
+}
+/* ------------ */
+
+
+
+/* Right Sidebar */
+.sidebar {
+    margin-left: 80%
+    border: dotted;
+    float:right;
+    width: 30%;
+    height: 100%;
+    margin-right: 2.8cm;
+    margin-top: 8%;
+    border: 2px dotted #000;
+    background-color: #ccccff;
+    text-align: left;
+    font-size: 15pt;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+/* ------------ */
+a1{
+    font-size: 18pt;
+}
+
+
+/* About Section */
+#navAbout
+{
+    width: 80%;
+    padding :4px;
+    text-align: center;
+
+    font-size: 18pt;
+    font-family: "Courier New", Courier, monospace;
+    
+    margin-right: 40%;
+    margin-left: 2.8cm;
+    background-color:#ffcc99;
+    border: 4px double #ff0000;
+}
+
+#nav001,#nav002,#nav003{
+    height: 500px;
+    width: 60%;
+}
+
+
+
+
+/* ----------- */
+
+
+
+
+/* Links banner */
+#navlist1
+{
+    margin-left: 2.8cm;
+    margin-right: 2.8cm;
+    padding :0px;
+    text-align: center;
+    background-color: #d1595d;
+    border:1px dashed red;
+    font-family: "Courier New", Courier, monospace;
+    
+    
+    width: 90%;
+    
+
+    border: 4px double #ff0000;
+}
+#Project1{
+    width: 50%;
+    padding :4px;
+    text-align: center;
+    
+    font-size: 18pt;
+    font-family: "Courier New", Courier, monospace;
+    
+    margin-right: 40%;
+    margin-left: 2.8cm;
+    background-color:#ffcc99;
+    border: 4px double #ff0000;
+}
+#Project2{
+    width: 50%;
+    padding :4px;
+    text-align: center;
+    
+    font-size: 18pt;
+    font-family: "Courier New", Courier, monospace;
+    
+    margin-right: 40%;
+    margin-left: 2.8cm;
+    background-color:#ffcc99;
+    border: 4px double #ff0000;
+}
+#Supplies{
+    width: 50%;
+    padding :4px;
+    text-align: center;
+    
+    font-size: 18pt;
+    font-family: "Courier New", Courier, monospace;
+    
+    margin-right: 40%;
+    margin-left: 2.8cm;
+    background-color:#ffcc99;
+    border: 4px double #ff0000;
+}
+
+
+div.list table
+{
+    margin-top: 20px;
+    margin-left: 350px;
+    text-align: left;
+}
+
+}
+.news li
+{
+    margin-right: 750 px;
+    padding :2px;
+    display:inline;
+    text-align: center;
+    font-size: 25pt;
+    font-family: "Times New Roman", Georgia, Serif;
+    vertical-align: middle;
+    
+}
+#email{
+    position: fixed;
+    margin:left 90%;
+    bottom:0;
+    
+    width:50%;
+    height:100px;
+   
+    margin-top: 90%;
+    margin-bottom: 50px;
+}
+
+img
+{
+    border-style: double;
+    border-color: black;
+    padding: 2px;
+    margin-right: 2px;
+    margin-left: -4px;
+}
+
+
+/* < Section = interest*/
+section
+{
+    width: 50%;
+    text-align: center;
+    font-size: 12pt;
+    line-height: 20pt;
+    font-family: "Comic Sans MS", cursive, sans-serif; color:green;
+    border: 4px double black;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-right: 750px;
+    margin-left: 2.8cm;
+    padding: 2px;
+    background-color: #baffa9;
+}
+/*---------------------*/
+
+/* Go to Top of page */
+footer
+{
+    position: relative;
+    right: 0;
+    bottom: 0;
+    left: 0;s
+    text-align:center;
+    background-color: #ffcc99;
+    color:red;
+    font-size: 15pt;
+    line-height: 20pt;
+    border: 3px dotted black;
+}
+
